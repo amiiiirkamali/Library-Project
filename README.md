@@ -1,5 +1,3 @@
-# libraryproject
-
 # Library Project
 
 A comprehensive Flutter application for managing a personal or institutional library system with modern UI/UX design and customizable themes.
