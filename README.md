@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-amirrezakamali5382@gmail.com
+Gmail: amirrezakamali5382@gmail.com
 
 Project Link: https://github.com/amiiiirkamali/Library-Project.git
 
