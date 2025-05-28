@@ -230,9 +230,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+amirrezakamali5382@gmail.com
 
-Project Link: [https://github.com/yourusername/library-project](https://github.com/yourusername/library-project)
+Project Link: https://github.com/amiiiirkamali/Library-Project.git
 
 ## Acknowledgments
 
